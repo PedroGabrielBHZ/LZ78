@@ -1,3 +1,0 @@
-[console_scripts]
-pylz78 = pylz78:main
-
